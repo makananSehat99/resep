@@ -23,7 +23,7 @@ body{
 
 }
 #desc-full-text-btn-halfbg .half-container-right {
-	background-image: url('./images/2.jpg');
+	background-image: url('2.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -32,7 +32,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg1 .half-container-right {
-	background-image: url('./images/4.jpg');
+	background-image: url('4.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -45,7 +45,7 @@ body{
 }
 
 #desc-full-halfbg-text-btn .half-container-left {
-	background-image: url('./images/3.jpg');
+	background-image: url('3.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -54,7 +54,7 @@ body{
 	opacity: 1;
 }
 #desc-full-halfbg-text-btn1 .half-container-left {
-	background-image: url('./images/5.jpg');
+	background-image: url('5.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -70,7 +70,7 @@ body{
 }
 
 #desc-full-text-btn-halfbg--0 .half-container-right {
-	background-image: url('./images/6.jpg');
+	background-image: url('6.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -81,7 +81,7 @@ body{
     background: #222222;
 }
 #desc-full-halfbg-text-btn2 .half-container-left {
-	background-image: url('./images/7.jpg');
+	background-image: url('7.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -90,7 +90,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg--01 .half-container-right {
-	background-image: url('./images/8.jpg');
+	background-image: url('8.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -99,7 +99,7 @@ body{
 	opacity: 1;
 }
 #desc-full-halfbg-text-btn3 .half-container-left {
-	background-image: url('./images/9.jpg');
+	background-image: url('9.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -108,7 +108,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-10 .half-container-right{
-    	background-image: url('./images/10.jpg');
+    	background-image: url('10.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -117,7 +117,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-11  .half-container-left {
-    	background-image: url('./images/11.jpg');
+    	background-image: url('11.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -126,7 +126,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-12 .half-container-right{
-    	background-image: url('./images/12.jpg');
+    	background-image: url('12.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -135,7 +135,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-13 .half-container-left {
-    	background-image: url('./images/13.jpg');
+    	background-image: url('13.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -144,7 +144,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-14  .half-container-right {
-    	background-image: url('./images/14.jpg');
+    	background-image: url('14.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -153,7 +153,7 @@ body{
 	opacity: 1;
 } 
 #desc-full-text-btn-halfbg-15 .half-container-left {
-    	background-image: url('./images/15.jpg');
+    	background-image: url('15.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -162,7 +162,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-16 .half-container-right {
-    	background-image: url('./images/16.jpg');
+    	background-image: url('16.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -171,7 +171,7 @@ body{
 	opacity: 1;
 } 
 #desc-full-text-btn-halfbg-17 .half-container-left {
-    	background-image: url('./images/17.jpg');
+    	background-image: url('17.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -180,7 +180,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-18 .half-container-right {
-    	background-image: url('./images/18.jpg');
+    	background-image: url('18.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -189,7 +189,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-19 .half-container-left {
-    	background-image: url('./images/19.jpg');
+    	background-image: url('19.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -198,7 +198,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-20 .half-container-right {
-    	background-image: url('./images/20.jpg');
+    	background-image: url('20.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -207,7 +207,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-21 .half-container-left {
-    	background-image: url('./images/21.jpg');
+    	background-image: url('21.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -216,7 +216,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-22 .half-container-right {
-    	background-image: url('./images/22.jpg');
+    	background-image: url('22.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -225,7 +225,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-23 .half-container-left {
-    	background-image: url('./images/23.jpg');
+    	background-image: url('23.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -234,7 +234,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-24 .half-container-right {
-    	background-image: url('./images/24.jpg');
+    	background-image: url('24.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -243,7 +243,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-25 .half-container-left {
-    	background-image: url('./images/25.jpg');
+    	background-image: url('25.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -252,7 +252,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-26 .half-container-right {
-    	background-image: url('./images/26.jpg');
+    	background-image: url('26.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -261,7 +261,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-27 .half-container-left {
-    	background-image: url('./images/27.jpg');
+    	background-image: url('27.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -270,7 +270,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-28 .half-container-right {
-    	background-image: url('./images/28.jpg');
+    	background-image: url('28.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -279,7 +279,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-29 .half-container-left {
-    	background-image: url('./images/29.jpg');
+    	background-image: url('29.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -288,7 +288,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-30 .half-container-right {
-    	background-image: url('./images/30.jpg');
+    	background-image: url('30.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -297,7 +297,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-31 .half-container-left {
-    	background-image: url('./images/31.jpg');
+    	background-image: url('31.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -306,7 +306,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-32 .half-container-right {
-    	background-image: url('./images/32.jpg');
+    	background-image: url('32.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
@@ -315,7 +315,7 @@ body{
 	opacity: 1;
 }
 #desc-full-text-btn-halfbg-33 .half-container-left {
-    	background-image: url('./images/33.jpg');
+    	background-image: url('33.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
